@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #BFD1F5;
+}
+#fondo_img_inicio{
+    background-color: #212445;
+    height: 70%;
+    width: 80%;
+}
+#imagen_inicio{
+    width: auto;
+    height: 110%;
+}
+.texto_resaltado{
+    color: #FF5A03;
+}
